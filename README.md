@@ -1,4 +1,4 @@
-# flexiblewhile
+# flexibleloop
 
 A Python utility that extends the standard `while` loop with built-in timeout control, iteration limits, pre-iteration hooks, and dynamic condition functions — all through a clean `for`-loop interface.
 
