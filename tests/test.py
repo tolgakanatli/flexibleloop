@@ -1,5 +1,5 @@
 #test code for flexible while
-from FlexibleLoop import FlexibleWhile
+from flexibleloop.FlexibleLoop import FlexibleWhile
 import time
 
 ######## EXAMPLE 1: GENERAL USAGE ########

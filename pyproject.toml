@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flexibleloop"
+version = "0.1.0"
+description = "A flexible, customizable while loop for Python with timeout, iteration limits, and pre-iteration hooks."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Dr. Tolga Kaan Kanatlı", email = "tolgakanatli@hotmail.com" }
+]
+keywords = ["loop", "while", "timeout", "iteration", "utility"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/tolgakanatli/flexibleloop"
