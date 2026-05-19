@@ -23,14 +23,12 @@ Python's `while` loop is simple but limited. Adding a timeout, counting iteratio
 
 ## Installation
 
-Clone the repository and import directly:
-
 ```bash
-git clone https://github.com/tolgakanatli/flexiblewhile.git
+pip install flexibleloop
 ```
 
 ```python
-from FlexibleLoop import FlexibleWhile
+from flexibleloop.FlexibleLoop import FlexibleWhile
 ```
 
 ---
